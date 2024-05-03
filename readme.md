@@ -14,13 +14,14 @@
 
 ## 3.5.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich für das Modul 106 die letzen aufträge erledigt(2420, 2421, 2422) ausserdem habe ich die OBA begonnen über die verschiedenen Join abfragen gemacht.
+Ich habe auch Ideen gesammelt was ich in dieser Lernperiode machen könnte zuerst habe ich mir überlegt wieder einen Discord Bot zu programmieren der mehr kann als in der letzen Lernperiode. Nun habe ich mich aber dazu entschieden eine Webseite zu programmieren, auf der Webseite sollten Produkte verkauft werden können. Diese Webseite mache ich mit Vincent. (83Wörter Wörter)
 
 ## 17.5.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Marketplace Designen
+- [ ] Erstes Produkt einfügen
+- [ ] Über uns seite erstellen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
