@@ -5,14 +5,18 @@
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+ Ich habe bis jetzt sehr gute Noten und auch keine ungenügenden Noten.  
 2. Was hatten Sie sich am Ende von LP4 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-4. Was wäre ein geeignetes Projekt für diese LP5?
+ Ich wollte meine Teamfähigkeit verbessern deshalb würde sich eine Gruppenarbeit dazu eignen.
+3. Was wäre ein geeignetes Projekt für diese LP5?
+ Ich könnte eine Webseite programmieren
 
-## 23.4.2024
+
+## 3.5.2024
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
-## 30.4.2024
+## 17.5.2024
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
