@@ -23,6 +23,14 @@ Ich habe auch Ideen gesammelt was ich in dieser Lernperiode machen könnte zuers
 - [ ] Startseite Mit Header und Footer designen
 - [ ] Ein Produkt einfügen
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute Nachmittag habe ich drei Aufgaben erledigt. Zuerst habe ich versucht, auf der Kontaktseite ein Formular hinzuzufügen, um die Benutzerinteraktion zu verbessern. Danach habe ich mich daran gemacht, das Design der Startseite mit Header und Footer zu gestalten. Leider habe ich festgestellt, dass ich zu lange damit beschäftigt war und keine Zeit mehr hatte, ein Produkt einzufügen. Der Fokus auf das Design hat mich davon abgehalten, die dritte Aufgabe zu beenden.(71 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
+## 24.05.2024
+
+- [ ] Produkt einfügen
+- [ ] About me seite
+- [ ] 
+
+
