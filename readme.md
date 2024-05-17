@@ -19,9 +19,9 @@ Ich habe auch Ideen gesammelt was ich in dieser Lernperiode machen könnte zuers
 
 ## 17.5.2024
 
-- [ ] Marketplace Designen
-- [ ] Erstes Produkt einfügen
-- [ ] Über uns seite erstellen
+- [ ] Auf der Seite Contact ein Formular hinzufügen
+- [ ] Startseite Mit Header und Footer designen
+- [ ] Ein Produkt einfügen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
