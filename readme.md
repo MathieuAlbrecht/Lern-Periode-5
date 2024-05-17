@@ -31,6 +31,7 @@ Ich habe auch Ideen gesammelt was ich in dieser Lernperiode machen könnte zuers
 
 - [ ] Produkt einfügen
 - [ ] About me seite
-- [ ] 
+- [ ] Footer kleiner kontakt Formular einbauen
+- [ ] Menü für die verschiedenen Seiten wie Shop Contact About me und home einbauen
 
 
