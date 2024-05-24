@@ -34,3 +34,16 @@ Ich habe auch Ideen gesammelt was ich in dieser Lernperiode machen könnte zuers
 - [ ] M293 Auftrag 7706
 
 
+
+
+Heute Nachmittag habe ich an den beiden Aufträgen 7705 und 7706 für das Modul 293 gearbeitet und sie erfolgreich abgeschlossen. Beide Aufgaben wurden gemäss den Anforderungen und Spezifikationen bearbeitet und fertiggestellt. Die Erstellung der "About Me"-Seite steht noch aus, da ich mich zuerst auf die beiden Modulaufträge konzentriert habe. Die Arbeit an den Aufträgen verlief reibungslos, und nun bleibt noch die "About Me"-Seite, die ich als Nächstes angehen werde.
+
+
+## 31.05.2024
+
+- [ ] About me Seite
+- [ ] M293 Auftrag 7710
+- [ ] M293 Auftrag 7711
+- [ ] Hintergrund auf der Webseite
+
+
