@@ -48,7 +48,14 @@ Heute Nachmittag habe ich an den beiden Aufträgen 7705 und 7706 für das Modul 
 
 Heute habe ich an den beiden Modulen 122 und 293 gearbeitet, da ich gemerkt habe, dass ich nicht so weit bin, wie ich sollte. Ich habe angefangen mit dem Modul 122 und nach einem Auftrag wollte ich nicht direkt an PowerShell weiterarbeiten, weshalb ich dann zum Modul 293 gegangen bin, wo ich die beiden Aufträge 7710 und 7711 bearbeitet habe und zuletzt habe ich dann noch den zweiten Auftrag vom Modul 122 bearbeitet. Nun bin ich in beiden Modulen wieder gut dabei bei den Aufträgen und kann nächste Woche wieder an der Webseite arbeiten. (94 Wörter)
 
+## 07.06.2024
+
 - [ ] About Me site
 - [ ] Hintergrundbild einfügen
 - [ ] M293 Auftrag 7712
 - [ ] M293 Auftrag 7713
+
+
+Heute Nachmittag habe ich daran gearbeitet, meine "About Me"-Seite zu erstellen. Ich habe kein wirkliches Bild als Hintergrund genommen, sondern habe in der Titelleiste einen Farbverlauf gewählt. Danach habe ich mich den Aufträgen 7712 und 7713 im Rahmen des M293 Projekts gewidmet. Diese Aufträge konnte ich ohne grosse Schwierigkeiten lösen.(51 Wörter)
+
+## 14.06.2024
