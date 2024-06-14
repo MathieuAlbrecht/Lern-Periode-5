@@ -58,4 +58,12 @@ Heute habe ich an den beiden Modulen 122 und 293 gearbeitet, da ich gemerkt habe
 
 Heute Nachmittag habe ich daran gearbeitet, meine "About Me"-Seite zu erstellen. Ich habe kein wirkliches Bild als Hintergrund genommen, sondern habe in der Titelleiste einen Farbverlauf gewählt. Danach habe ich mich den Aufträgen 7712 und 7713 im Rahmen des M293 Projekts gewidmet. Diese Aufträge konnte ich ohne grosse Schwierigkeiten lösen.(51 Wörter)
 
+
 ## 14.06.2024
+
+- [ ] LB Projekt Modul 122 Thema finden
+- [ ] LB M122 PAP
+- [ ] LB M122 Testfälle
+- [ ] Webseite Kontaktformular Formatieren
+
+
