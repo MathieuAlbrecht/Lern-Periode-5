@@ -66,4 +66,16 @@ Heute Nachmittag habe ich daran gearbeitet, meine "About Me"-Seite zu erstellen.
 - [ ] LB M122 Testfälle
 - [ ] Webseite Kontaktformular Formatieren
 
+Heute habe ich an meinem Projekt für Modul 122 gearbeitet. Zuerst habe ich ein Thema für das Projekt gefunden. Dann habe ich einen Plan erstellt, wie das Projekt ablaufen soll. Danach habe ich Testfälle entwickelt, um sicherzustellen, dass alles richtig funktioniert. Zum Schluss habe ich das Kontaktformular auf der Webseite formatiert, damit es gut aussieht und leicht zu benutzen ist.
+
+## 21.06.2024
+
+- [ ] LB M122 problemstellung Implementieren in Powershell
+- [ ] "
+- [ ] LB M293 Webseite Homepage gestalten
+- [ ] LB M293 Portfoliobeitrag
+
+
+
+
 
